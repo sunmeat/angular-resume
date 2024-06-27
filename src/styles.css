@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+* {
+    font-family: Merriweather, sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(25, 25, 25);
+}
